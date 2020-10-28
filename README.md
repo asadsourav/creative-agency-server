@@ -1,6 +1,6 @@
 # Creative Agency Website
 
-This a dynamic,full-stack website which displays different services provided by an online agency. The styling of this website is very impressive and eye-cathing with many functionalities. You may have a look of this site on the link below:
+This a dynamic,full-stack website which displays different services provided by an online agency. The styling of this website is very impressive and eye-catching with many functionalities. You may have a look of this site on the link below:
 
 ## [Live Link](https://creative-agency-f621f.firebaseapp.com/)
 
